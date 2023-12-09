@@ -1,1 +1,4 @@
 # 4501-final-project
+# In this project, we have successfully implemented a data pipeline that downloads, cleans, and stores data from various sources, including NYC Open Data and Zillow. We utilized Python libraries like pandas and geopandas for data manipulation and cleaning, ensuring that only relevant columns were kept and invalid data points were removed. The data was then stored in a PostgreSQL database, leveraging the PostGIS extension for spatial queries. Furthermore, a set of SQL queries was crafted to analyze neighborhood quietness, greenery, and affordability. Finally, data visualizations were created to aid in understanding the datasets and assist in making an informed decision on finding a suitable apartment area within the specified budget.
+# Group 42
+# UNIs: [tw2996, kj2636]
